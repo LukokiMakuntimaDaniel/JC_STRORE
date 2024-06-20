@@ -15,7 +15,6 @@
   - [Sincronização](#sincronização)
 - [Instalação](#instalação)
 - [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
 
 ## Introdução
 O objetivo deste trabalho é desenvolver um sistema para o armazenamento de dados, denominado JCStore. O JCStore utiliza um modelo lógico de organização de dados chamado chave-valor, em que cada dado é associado a um par: uma “chave” que permite identificar univocamente o dado, e um “valor”.
