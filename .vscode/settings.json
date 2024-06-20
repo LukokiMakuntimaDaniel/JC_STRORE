@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "jcstore_functions.h": "c",
+        "structures.h": "c"
+    }
+}
